@@ -2,9 +2,8 @@
 
 **Dôležité:** Toto nie je návod ako to má byť "správne". Je to môj pohľad založený na osobnej skúsenosti. Každý môže mať inú cestu a neexistuje overený postup, ktorý funguje pre všetkých.
 
----
 
-## 1. Rýchle nadobúdanie schopností
+## Rýchle nadobúdanie schopností
 
 ### Najdôležitejšia schopnosť pri zakladaní biznisu
 - Vedieť rýchlo nadobúdať nové schopnosti je kľúčové pre všetko ostatné
@@ -46,9 +45,8 @@
 - **Robte to efektívne** – nie náhodne, ale systematicky
 - Táto schopnosť sa vám zíde vo všetkých oblastiach prevádzky štúdia
 
----
 
-## 2. Základné nastavenie
+## Základné nastavenie
 
 ### Byrokracia a založenie firmy
 - Založenie firmy je jednoduché – použite služby ako sroonline.sk alebo podobné
@@ -67,9 +65,28 @@
 - Biznis vyžaduje chladnejší pohľad a triezvejšie rozhodnutia
 - Niekedy musíte spraviť nepríjemné rozhodnutia – to je súčasť prevádzky štúdia
 
----
+## Veľké otázky na začiatku
 
-## 2. Financovanie a rozpočet
+### Definujte si cieľ
+- Chcete spraviť hru, ktorá vás baví?
+- Chcete zarobiť peniaze?
+- Budujete si portfólio pre budúce príležitosti?
+- **Jasný cieľ = rýchlejšie a lepšie rozhodnutia**
+
+### Publisher vs. indie cesta
+Obe možnosti sú v poriadku, ale vyžadujú iný prístup:
+
+**Cesta cez publishera:**
+- Potrebujete portfólio a existujúce hry
+- Musíte dokázať, že tím je silný a prešiel si produkciou
+- Hra musí mať veľký appeal a premyslenú monetizáciu
+
+**Indie cesta:**
+- Musíte vyriešiť financovanie
+- Aj solo developer musí počítať s rozpočtom na seba – váš čas nie je zadarmo
+
+
+## Financovanie a rozpočet
 
 ### Sledovanie cash flow
 - Vytvorte si tabuľku s mesačnými výdavkami a príjmami
@@ -111,9 +128,8 @@
 - Nepotrebujete office ani luxus
 - **Ušetrite na všetkom, čo nie je nevyhnutné**
 
----
 
-## 3. Výber projektu a scope
+## Výber projektu a scope
 
 ### Nápady sú lacné, realizácia je kľúčová
 
@@ -135,9 +151,8 @@ Vo VR sa nám veľmi páči zážitok, že viete byť s niekým v spoločnom vir
 - Hry nemusia byť 10-hodinové, aby z nich mal hráč zážitok
 - **Radšej menej a kvalitne**
 
----
 
-## 4. Zloženie tímu
+## Zloženie tímu
 
 ### Stavajte na silných stránkach
 - **Solo developer:** Zistite, v čom ste dobrý a stavajte na tom
@@ -148,18 +163,17 @@ Vo VR sa nám veľmi páči zážitok, že viete byť s niekým v spoločnom vir
 - Ak máte silný art → robte umeleckú hru s menej komplexným programovaním
 - Ak ste iba programátori → postavte hru na technickej vychytávke
 
-### Výber ľudí do týmu
+### Výber ľudí do tímu
 - **Schopnosti a zručnosti sa dajú nadobudnúť, osobnosť nie**
 - Ak vám niekto nesedí ľudsky, dajte na svoj inštinkt
 - Zhodnoťte, ako človek pracuje: niektorí potrebujú voľnosť, iní striktnejší režim
 - Nie každý vie pracovať samostatne – túto vlastnosť treba identifikovať už pri nábore
 
----
 
-## 5. Vedenie týmu
+## Vedenie tímu
 
 ### Jasný spoločný cieľ
-- Všetci členovia týmu musíte vedieť, kam idete
+- Všetci členovia tímu musíte vedieť, kam idete
 - Všetky rozhodnutia dokumentujte a udržujte na jednom mieste
 - Zo všetkých rozhovorov spravte písomné výstupy
 
@@ -180,9 +194,8 @@ Najčastejšie príčiny straty času:
 - Keď dôjde k zlyhaniu: **hľadajte príčinu, nie vinníka**
 - Spoločne nájdite dôvod a riešenie, ako sa tomu vyhnúť nabudúce
 
----
 
-## 6. Fázy vývoja
+## Fázy vývoja
 
 ### Playtestovanie – overujte si hypotézy
 
@@ -234,7 +247,6 @@ Dajte to prečítať kolegom, kamarátom, rodine, verejnosti a získavajte feedb
 
 **Playtestujte všetko.**
 
----
 
 ### Dĺžka vývojového cyklu – validujte skoro
 
@@ -262,7 +274,6 @@ Tak teraz viem, že investovať do toho má asi zmysel a môžem z toho jadra sp
 **Pozrite sa na toto video:** https://www.youtube.com/watch?v=GhmJnKhvD_0  
 Je to VR hra, ale nie je tam ani štipka gameplayu. Vo videu je vyobrazený zážitok, ktorý hra bude ponúkať.
 
----
 
 ### Prototyp
 - Žiadna optimalizácia, žiadne "zlepšováky"
@@ -289,31 +300,8 @@ Aj keď vo finálnej hre plánujete nejaké ďalšie veci, čo hráč bude robi�
 - Investujte do zlepšovákov, Unity nástrojov, automatizácie
 - Nastavte si workflow a neustále ho vylepšujte
 
----
 
-## 7. Veľké otázky na začiatku
-
-### Definujte si cieľ
-- Chcete spraviť hru, ktorá vás baví?
-- Chcete zarobiť peniaze?
-- Budujete si portfólio pre budúce príležitosti?
-- **Jasný cieľ = rýchlejšie a lepšie rozhodnutia**
-
-### Publisher vs. indie cesta
-Obe možnosti sú v poriadku, ale vyžadujú iný prístup:
-
-**Cesta cez publishera:**
-- Potrebujete portfólio a existujúce hry
-- Musíte dokázať, že tím je silný a prešiel si produkciou
-- Hra musí mať veľký appeal a premyslenú monetizáciu
-
-**Indie cesta:**
-- Musíte vyriešiť financovanie
-- Aj solo developer musí počítať s rozpočtom na seba – váš čas nie je zadarmo
-
----
-
-## 8. Networking
+## Networking
 
 ### Prečo je dôležitý
 - Aj bez hotového produktu môžete chodiť na konferencie
@@ -331,9 +319,8 @@ Obe možnosti sú v poriadku, ale vyžadujú iný prístup:
 - Naučte sa plynulo prezentovať svoje nápady a cieľe
 - Jasná a sebavedomá komunikácia zaujme ľudí
 
----
 
-## 9. Marketing
+## Marketing
 
 ### Marketing je často prehliadaný
 
@@ -398,9 +385,8 @@ poskytnúť. Berte to ako nadobúdanie schopností. Niečo si prečítajte, nau�
 a realizujte. Odmerajte si ako dobre to fungovalo a spravte rozhodnutia. A takto
 dookola.
 
----
 
-## 10. Mentálne zdravie a tímová kultúra
+## Mentálne zdravie a tímová kultúra
 
 ### Work-life balance
 - Nechajte si čas aj na zábavu a experimenty
@@ -422,10 +408,3 @@ dookola.
 - Niektorí ľudia potrebujú striktnejší režim
 - Nie každý vie pracovať samostatne
 - Tieto vlastnosti zhodnoťte už pri nábore
-
----
-
-## Záver
-
-Prevádzka herného štúdia je o balansovaní kreativity s biznisom, voľnosti so zodpovednosťou a ambícií s realizmom. Nebojte sa experimentovať, ale buďte pripravení učiť sa zo svojich chýb a rýchlo sa adaptovať.
-
