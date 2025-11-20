@@ -101,6 +101,8 @@ Obe možnosti sú v poriadku, ale vyžadujú iný prístup:
 - Ak ste sa výrazne odchýlili, prehodnoťte metódu výpočtu
 - Cieľ: postupne dosiahnuť dostatočne presný výpočet pre budúcnosť
 
+[Template](https://docs.google.com/spreadsheets/d/1o_lMsdgTZwG1vkHxO2WUCDEMtyZkIpashyTjNV5tuJ8/edit?usp=sharing)
+
 ### Burn rate – pomalšie je rýchlejšie
 
 **Nenaháňajte sa s expanziou:**
