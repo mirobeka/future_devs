@@ -335,56 +335,68 @@ Obe možnosti sú v poriadku, ale vyžadujú iný prístup:
 
 ## 9. Marketing
 
-Marketin je časo prehliadaný pri indie štúdiach a je to aj náš prípad. Až
-príliš často sme ponorený do svojich úloh a nikto na to nemá čas. 
+### Marketing je často prehliadaný
 
-Ale aj k tejto veci sa vietee postaviť ako pred nejaký experiment.
-Už som to spomínal aj pri validácií nápadov. Skúste nejako zachytiť zážitok
-z vašej hry. Či už ako fejkové video, alebo gameplay video. Dajte to online
-a začnite to propagovať ako hotovú hry.
+Marketing je často prehliadaný pri indie štúdiách – a je to aj náš prípad. Až príliš často sme ponorení do svojich úloh a nikto na to nemá čas. Ale aj k tejto veci sa viete postaviť ako k experimentu.
 
-Merajte koľko ľudí na to klikne a koľko sa prihlási na whishlist.
-Ak nemáte steam page, nevadí. Použite mailchimp ako váš wishlist. Dajte ľuďom
-jasný Call to Action button kde si zaregistrujú mailovú adresu a jasne im povedzte,
-že ide o wishlist a že ich nebudete otravovať.
+### Validácia cez marketing
 
-Alebo zbierajte ľudí na discord.
+Už som to spomínal aj pri validácii nápadov. Skúste zachytiť zážitok z vašej hry – či už ako fejkové video, alebo gameplay video. Dajte to online a začnite to propagovať ako hotovú hru.
 
-Pri indie, neviete spustiť masívnu marketingovú kampaň. Ľudí musíte zbierať doslova
-po jednom.
+**Merajte:**
+- Koľko ľudí na to klikne
+- Koľko sa prihlási na wishlist
 
-Každý jeden človek, čo sa pridá na váš discord alebo mailling list - vážte si ho.
-Komunikujte s ním a ukazujte mu veci. Ako svojim kamošom. Bars čo. 
+Ak nemáte Steam page, nevadí. Použite Mailchimp ako váš wishlist. Dajte ľuďom jasný **Call to Action button**, kde si zaregistrujú mailovú adresu. Jasne im povedzte, že ide o wishlist a že ich nebudete otravovať. Alebo zbierajte ľudí na Discord.
 
-Nechajte ich vyjadriť svoj názor. 
+### Budovanie komunity – jeden po jednom
 
-Oslovujte ľudí na sociálnych sieťach. Napríklad ja som robil to, že na tiktoku
-som vypisoval deťom. Hej vidím, že ťa baví gorila tag. Spravil som takúto a takúto
-hru. Myslím, že by ťa to mohlo zaujímať. Vyskúšaj ak chceš a daj mi vedieť čo
-si myslíš.
+Pri indie nevieme spustiť masívnu marketingovú kampaň. **Ľudí musíte zbierať doslova po jednom.**
 
-Takto som získal pár hráčov.
+Každý jeden človek, čo sa pridá na váš Discord alebo mailing list – vážte si ho. Komunikujte s ním a ukazujte mu veci. Ako svojim kamošom. Nechajte ich vyjadriť svoj názor.
 
-Prípadne môžete skúsiť investovať nejaké peniaze a merať ako to bolo úspešné.
-zoberte napríklad nejakých 1000 eur a oslovne nejakých streamerov nech spravia
-nejaké video o vašej hre, alebo shout out alebo niečo. Dohodnite si jasné podmienky
-platby a čo musia spraviť. napríklad vo videu includnuť qr kód, v popise musí byť
-linka na store alebo CTA. Koľko sekúd sa musia venovať vašej hre.
+### Príklad: Osobné oslovenie na TikToku
 
-Investujte takto nejaký menší budget a hlavne si odmerajte ako bolo toto úspešné.
-používajte short linky cez ktoré si viete merať koľko ľudí to kliklo.
+Oslovujte ľudí na sociálnych sieťach. Napríklad ja som na TikToku vypisoval deťom: *"Hej, vidím, že ťa baví Gorilla Tag. Spravil som takúto a takúto hru. Myslím, že by ťa to mohlo zaujímať. Vyskúšaj, ak chceš, a daj mi vedieť, čo si myslíš."*
 
-Aj na marketing sa dá pozerať ako na experiment a technickú výzvu ako to všetko
-nastaviť a hlavne ODMERAT. A na základe zistení môžete spraviť ďalšie rozhodnutia.
+Takto som získal pár hráčov. Je to pomalé, ale autentické.
 
-Pre každú sociálnu sieť potrebujete nájsť aj správny prístup. Napríklad na reddite
-ak budete len tak propagovať vašu hru, tak vás zrušia. Ale môžete ísť na to aj 
-šikovne. "Robím takúto hru a mal som takýto technický problém a takto som ti vyriešil"
-A potom keď sa vás budú ľudia pýtať čo je to za hru, posielajte im linku. Zbierajte
-ľudí po jednom.
+### Platený marketing – testujte s malým budgetom
 
-Lepšie je vybudovať menšiu a vernejšiu komunitu ako skúšať nejakú masívnu kampaň.
-Masívne kampane niesu také autentické ako viete byť vy.
+Prípadne môžete skúsiť investovať nejaké peniaze a merať, ako to bolo úspešné.
+
+**Príklad:**
+- Zoberte napríklad 1000 € a oslovte nejakých streamerov, nech spravia video o vašej hre alebo shoutout
+- Dohodnite si jasné podmienky platby a čo musia spraviť:
+  - Vo videu includnúť QR kód
+  - V popise musí byť linka na store alebo CTA
+  - Koľko sekúnd sa musia venovať vašej hre
+
+**Investujte takto menší budget a hlavne si odmerajte, ako bolo toto úspešné.** Používajte short linky, cez ktoré si viete merať, koľko ľudí to kliklo.
+
+### Marketing ako experiment a technická výzva
+
+Aj na marketing sa dá pozerať ako na experiment a technickú výzvu – ako to všetko nastaviť a hlavne **ODMERAŤ**. A na základe zistení môžete spraviť ďalšie rozhodnutia.
+
+### Špecifický prístup pre každú sociálnu sieť
+
+Pre každú sociálnu sieť potrebujete nájsť aj správny prístup.
+
+**Príklad – Reddit:**  
+Ak budete len tak propagovať vašu hru, tak vás zrušia. Ale môžete ísť na to šikovne:
+
+*"Robím takúto hru a mal som takýto technický problém a takto som to vyriešil."*
+
+A potom keď sa vás budú ľudia pýtať, čo je to za hru, posielajte im linku. **Zbierajte ľudí po jednom.**
+
+### Autentická menšia komunita > masívna kampaň
+
+Lepšie je vybudovať menšiu a vernejšiu komunitu ako skúšať nejakú masívnu kampaň. Masívne kampane nie sú také autentické, ako viete byť vy.
+
+O marketingu indie hier existuje oveľa viacej informácií online ako dokážem
+poskytnúť. Berte to ako nadobúdanie schopností. Niečo si prečítajte, naučte sa
+a realizujte. Odmerajte si ako dobre to fungovalo a spravte rozhodnutia. A takto
+dookola.
 
 ---
 
