@@ -114,23 +114,19 @@
 ---
 
 ## 3. Výber projektu a scope
-Nápady sú lacné, realizácia je kľúčová. Nebojte, nikto vám váš nápad neukradne.
-Garantujem vám, že váš nápad nie je ani taký revolučný ako si myslíte.
 
-Realizácia je to čo je kľúčové. Ako sú veci polishnuté, ako dobre fungujú. To
-nieje niečo čo vám niekto môže ukradnúť. To je dlhá a tvrdá práca. 
+### Nápady sú lacné, realizácia je kľúčová
 
-Navyše ani nepotrebujete nejaké unikátny nápad. Práveže, unikátne veci často
-ľudia nepochopia a vôbec to nie je taký úspech ako ste čakali. 
+Nebojte sa, nikto vám váš nápad neukradne. Garantujem vám, že váš nápad nie je ani taký revolučný, ako si myslíte. **Realizácia je to, čo je kľúčové.** Ako sú veci polishnuté, ako dobre fungujú – to nie je niečo, čo vám niekto môže ukradnúť. To je dlhá a tvrdá práca.
 
-V hre je dôležitý zážitok. Aký zážitok chcete hrou sprostredkovať? Ako chcete
-aby sa hráč čítil. A potom to už len dosiahnite mechanikami, artom a hudbou.
+Navyše ani nepotrebujete nejaký unikátny nápad. Práve naopak – unikátne veci často ľudia nepochopia a vôbec to nie je taký úspech, ako ste čakali.
 
-Príklad z našej hry: vo VR sa nám veľmi páči zážitok, že vieš byť s niekym v
-spoločnom virtuálnom priestore a fakt máš pocit, že si s tým človekom prítomný.
-Tento žážitok sme potom pretavili do hry, kde je kľúčoví co-op aspekt a to, že
-musíte spolupracovať pri riešení nejakých situácií. Toto bol náš zámer, zážitok
-ktorý sme chceli sprostredkovať.
+### Zážitok je kľúčový
+
+V hre je dôležitý zážitok. Aký zážitok chcete hrou sprostredkovať? Ako chcete, aby sa hráč cítil? A potom to už len dosiahnete mechanikami, artom a hudbou.
+
+**Príklad z našej VR hry:**  
+Vo VR sa nám veľmi páči zážitok, že viete byť s niekým v spoločnom virtuálnom priestore a fakt máte pocit, že ste s tým človekom prítomný. Tento zážitok sme potom pretavili do hry, kde je kľúčový co-op aspekt a to, že musíte spolupracovať pri riešení rôznych situácií. Toto bol náš zámer – zážitok, ktorý sme chceli sprostredkovať.
 
 ### Začnite malými vecami
 - Nehrňte sa do veľkých projektov, aj keď cítite, že to zvládnete
@@ -188,101 +184,85 @@ Najčastejšie príčiny straty času:
 
 ## 6. Fázy vývoja
 
-### Playtestovanie
-Hra prechádza rôznymi fázami vývoja. Začínate s nejakým prototypom, ktorý
-postupne vylepšujete a iterujete. Tu je dôležité playtestovať veľa a často.
+### Playtestovanie – overujte si hypotézy
 
-Playtestovať môžete najprv vy. Vychytáte si veci ako tak a dáte to zahrať
-kolegom. Potom to môžete dať zahrať rodine a priateľom. Ak už gameplay je
-dostatočne zrozumiteľný tak to môžete zavesiť na internet a dať to zahrať
-cudzím ľuďom.
+Hra prechádza rôznymi fázami vývoja. Začínate s nejakým prototypom, ktorý postupne vylepšujete a iterujete. Tu je dôležité playtestovať veľa a často.
 
-Pri cudzích ľuďoch je dôležité aby ste zbierali nejaké údaje. Či sa pri niečom
-nezasekol, či si všimol to čo si mal všimnúť. Či ho dialóggy zaujali alebo ich
-preskočil a podobne. Na každú jednu vec nájdite systém ako to merať aby ste mali
-cenné informácie na základe ktorých viete podniknúť nejaké kroky. Vždy majte
-nejaký zámera. Nie len, "tak čo páčilo sa ti to?" Playtestom si overujete svoju
-hypotézu.
+**Ako postupovať:**
+1. **Najprv testujete vy** – vychytáte si základné veci
+2. **Potom kolegovia** – získate prvý externý feedback
+3. **Rodina a priatelia** – overíte zrozumiteľnosť
+4. **Cudzí ľudia** – reálny pohľad hráčov
 
-Príklad s claustroff: Hra je o expozičnej terapií pre klaustrofóbiu. Našli sme
-si klaustrofobikov, ktorých sme pozívali na playtesty. 
+### Zbierajte dáta systematicky
 
-Hypotéza bola, či s hernými mechanikami, ktoré sme si vymysleli, vieme navodiť
-pocit klaustrofóbie. 
+Pri testovaní s cudzími ľuďmi je dôležité zbierať údaje. Či sa pri niečom nezasekli, či si všimli to, čo mali všimnúť, či ich dialógy zaujali alebo ich preskočili. **Na každú jednu vec nájdite systém, ako to merať**, aby ste mali cenné informácie, na základe ktorých viete podniknúť kroky. 
 
-Do hry sme dali jednoduchý formulár - čísla o O po 10 - že aký veľký stres hráč
-cíti.
+Vždy majte nejaký zámer. Nie len "tak čo, páčilo sa ti to?" – **playtestom si overujete svoju hypotézu.**
 
-Zároveň sme cez smart hodinky merali aj srdcový tep. Všetky playtesty sme si
-nahrávali na kameru. 
+### Príklad z Claustroff: Testovanie klaustrofóbie
 
-Hypotéza bola potvrdená, ľudia boli vo väčšom strese, ale nie úplne všetci. Niekto
-skôr nieto aj pri fakt malých priestoroch. Vedeli sme, že hru nebudeme vedieť
-nastaviť tak aby stimulovala každého dostatočne. Klaustrofóbia je škála. Niekto
-ju má viacej, niekto menej. 
+Naša hra je o expozičnej terapii pre klaustrofóbiu. Našli sme si klaustrofobikov, ktorých sme pozývali na playtesty.
 
-Ďalší playtest bol o tom, či vieme ľudí pomocou dýchacieho cvičenia a mentálneho
-cvičenia dostať do stavu priviknutia si a tým zmenšiť stres. 
+**Hypotéza 1:** Vieme s našimi hernými mechanikami navodiť pocit klaustrofóbie?
 
-Spravili sme jednu scénu, ktorá bol extrém. Spustili sme ju na začiatku playtestu
-a merali sme. 
+**Ako sme merali:**
+- Do hry sme dali jednoduchý formulár – škála 0-10, kde hráč hodnotí úroveň stresu
+- Cez smart hodinky sme merali srdcový tep
+- Všetky playtesty sme nahrávali na kameru
 
-Potom si zahrali pár levelov aj s cvičeniami.
+**Výsledok:** Hypotéza bola potvrdená – ľudia boli vo väčšom strese, ale nie úplne všetci. Niekto sa stresoval skôr, niekto až pri fakt malých priestoroch. Vedeli sme, že hru nebudeme vedieť nastaviť tak, aby stimulovala každého dostatočne – klaustrofóbia je škála. Niekto ju má viac, niekto menej.
 
-Na konci opäť tá istá hard core scéna. Otázka, znášali to lepšie? Odpoveď ano.
-Niektorý áno, iných to stále veľmi trigerovalo.
+**Hypotéza 2:** Vieme ľudí pomocou dýchacieho a mentálneho cvičenia dostať do stavu privyknutia si a tým znížiť stres?
+
+**Ako sme testovali:**
+1. Spravili sme jednu scénu, ktorá bola extrém
+2. Spustili sme ju na začiatku playtestu a merali sme stres
+3. Potom si zahrali pár levelov s cvičeniami
+4. Na konci znova tá istá hardcore scéna
+5. Otázka: Znášali to lepšie?
+
+**Odpoveď:** Áno. Niektorí áno výrazne, iných to stále veľmi trigerovalo, ale aj tí mali mierne zlepšenie.
 
 Toto sú užitočné informácie, ktoré nám pomohli robiť dobré rozhodnutia.
 
+### Playtestovať viete aj story
 
-Playtestovať viete aj veci, ktoré by sa na prvý pohlad playtestovať nedali.
-Napríklad, story. Môžete dať dokopy nejaký príbeh, nejaký aspekt, ktorý si chcete
-overiť. Spravte poviedku z toho. Definujte si čo chcete zistiť. Je hlavný hrdina
-v pohode, vieš sa s ním stotožniť? Je hlavná zápletka zaujímavá?
+Playtestovať viete aj veci, ktoré by sa na prvý pohľad playtestovať nedali. Napríklad príbeh. Môžete dať dokopy nejaký príbeh, nejaký aspekt, ktorý si chcete overiť. Spravte poviedku z toho. Definujte si, čo chcete zistiť: Je hlavný hrdina v pohode? Vie sa s ním hráč stotožniť? Je hlavná zápletka zaujímavá?
 
-dajte to prečítať kolegom, kamarátom, rodine, verejnosti a získavajte feedback.
-Alebo to cez AI spravte ako komiks.
+Dajte to prečítať kolegom, kamarátom, rodine, verejnosti a získavajte feedback. Alebo to cez AI spravte ako komiks.
 
-Playtestujte všetko.
+**Playtestujte všetko.**
 
+---
 
-### dlžka vývojového cyklu
-Určite nerobte takú chybu, že budete robiť nejakú hru 2 roky a potom ju vydáte
-a budete dúfať v to najlepšie.
+### Dĺžka vývojového cyklu – validujte skoro
 
-Validujte svoje nápady. Spravte iba pitch deck s nejakým artom a dajte to
-na sociálne siete alebo to pošlite publisherom.
+Určite nerobte takú chybu, že budete robiť nejakú hru 2 roky a potom ju vydáte a budete dúfať v to najlepšie. **Validujte svoje nápady skoro.**
 
-Spravte fejkové video o tom ako hra funguje a postnite to na sociálne siete.
-Povedzte, že hra bude vychádzať o pár týždňov. Merajte koľko ľudí na to klikne.
+**Možnosti valídacie:**
+- Spravte iba pitch deck s artom a dajte to na sociálne siete alebo pošlite publisherom
+- Spravte fejkové video o tom, ako hra funguje, a postite to na sociálne siete. Povedzte, že hra vychádza o pár týždňov. Merajte, koľko ľudí na to klikne
+- Spravte Steam page a merajte wishlist
 
-Spravte kľudne steam page a merajte wishlist.
+**Ešte predtým, než sa pustíte do programovania, validujte si na trhu, že o vašu hru niekto bude mať záujem.**
 
-Ešte predtým než sa pustíte do programovania, validujte si na trhu, že o vašu
-hru niekto bude mať záujem.
+Tvárte sa, že ten produkt už existuje. Fejkujte všetko a validujte si svoje predpoklady. Je to určite lacnejšie ako X ľudí na 1-2 roky.
 
-Tvárte sa, že ten produkt už existuje. Fejkujte všetko a validujte si svoje
-predpoklady. Je to určite lacnejšie ako X ľudí na 1-2 roky.
+### Príklad: VR hra s tlačidlami
 
-Prípadne spravte game jam verziu a dajte to von.
+Spravili sme na game jame VR hru, kde stláčaš gombíky. Bola to celkom sranda. Chcel som vedieť, či aj ostatní ľudia majú o to záujem. Spravil som Meta Store page, pridal som build aj s bugmi tak, ako bol. Art sme nemali, nakreslili sme niečo na whiteboard a odfotil som to telefónom. Proste rýchlovka.
 
-Príklad: spravil sme na game jamu vr hru kde stláčaš gombíky. Bola to celkom sranda.
-Chcel som vedieť, či aj ostatní ľudia majú o to záujem. Spravil som meta store page
-pridal som build aj s bugmi tak ako bol. Art sme nemali, nakreslili sme niečo
-na whiteboard a odfotil som to telefónom. Proste rýchlovka. 
+Aj v popise sme všetko priznali, ako sa veci majú. Zistili sme, že sa to ľudia celkom hrajú a aj bez žiadneho marketingu tam ľudia pribúdajú.
 
-Aj v popise sme všetko priznali ako sa veci majú. Zistili sme, že sa to ľudia
-celkom hrajú a aj bez žiadneho marketingu tam ľudia pribúdajú.
+Tak teraz viem, že investovať do toho má asi zmysel a môžem z toho jadra spraviť nejakú hru. Opäť validujem si svoje nápady rovno na trhu.
 
-Tak teraz viem, že investovať do toho má asi zmysel a môžem z toho jadra spraviť
-nejakú hru. Opäť validujem si svoje nápady rovno na trhu.
+**Do tejto fázy treba investovať maximálne 1-2 mesiace** – v závislosti od toho, či robíte nejaký build hry, alebo iba fejkový Steam page a fejkové video.
 
-Do tejto fázy treba investovať maximálne 1-2 mesiace. V závislosti či robíte
-nejaký build hry, alebo iba fejkový steam page a fejkové video.
+**Pozrite sa na toto video:** https://www.youtube.com/watch?v=GhmJnKhvD_0  
+Je to VR hra, ale nie je tam ani štipka gameplayu. Vo videu je vyobrazený zážitok, ktorý hra bude ponúkať.
 
-Pozrite na toto video: https://www.youtube.com/watch?v=GhmJnKhvD_0
-je to vr hra, ale nieje tam ani štipka gameplayu. Vo videu je vyobrazený
-zážitok, ktorý hra bude ponúkať.
+---
 
 ### Prototyp
 - Žiadna optimalizácia, žiadne "zlepšováky"
@@ -291,22 +271,20 @@ zážitok, ktorý hra bude ponúkať.
 - Playtestujte veľa a často
 
 ### Vertical slice
-Tu sa snažíme spraviť priereze celou hrou. Sú tam collectibles? Spravte 1.
-Sú tam nepriateľia? spravte jeden typ.
 
-Je tam story line? Spravte jeden dialóg.
-Je tam viacero levelov? Spravte jeden kde je všetko. Nemusí to byť finálna hra,
-ale získaš obraz o tom, o čo v tej hre ide. Tu sa sústredíte na kvalitu a nie
-na kvantitu.
+Tu sa snažíme spraviť prierez celou hrou. **Sústredíte sa na kvalitu, nie na kvantitu.**
 
-Všetko čo nieje esenciálne môže byť v blockoutovej podobe. Je jasné, že nejde o
-finálny produkt.
+**Príklady:**
+- Sú tam collectibles? Spravte 1
+- Sú tam nepriatelia? Spravte jeden typ
+- Je tam storyline? Spravte jeden dialóg
+- Je tam viacero levelov? Spravte jeden, kde je všetko
 
-Aj keď vo finálnej hre plánujete nejaké ďalšie veci čo hráč bude robiť, nedávajte
-tam všetko. Iba tie najpodstatnejšie veci.
+Získate obraz o tom, o čo v tej hre ide. Všetko, čo nie je esenciálne, môže byť v blockoutovej podobe. Je jasné, že nejde o finálny produkt.
+
+Aj keď vo finálnej hre plánujete nejaké ďalšie veci, čo hráč bude robiť, nedávajte tam všetko. Iba tie najpodstatnejšie veci.
 
 ### Produkcia
-Tu ide o to, že idete produkovať
 - Zamerajte sa na elimináciu strát času
 - Investujte do zlepšovákov, Unity nástrojov, automatizácie
 - Nastavte si workflow a neustále ho vylepšujte
@@ -357,17 +335,60 @@ Obe možnosti sú v poriadku, ale vyžadujú iný prístup:
 
 ## 9. Marketing
 
-### (Táto sekcia bude doplnená)
+Marketin je časo prehliadaný pri indie štúdiach a je to aj náš prípad. Až
+príliš často sme ponorený do svojich úloh a nikto na to nemá čas. 
+
+Ale aj k tejto veci sa vietee postaviť ako pred nejaký experiment.
+Už som to spomínal aj pri validácií nápadov. Skúste nejako zachytiť zážitok
+z vašej hry. Či už ako fejkové video, alebo gameplay video. Dajte to online
+a začnite to propagovať ako hotovú hry.
+
+Merajte koľko ľudí na to klikne a koľko sa prihlási na whishlist.
+Ak nemáte steam page, nevadí. Použite mailchimp ako váš wishlist. Dajte ľuďom
+jasný Call to Action button kde si zaregistrujú mailovú adresu a jasne im povedzte,
+že ide o wishlist a že ich nebudete otravovať.
+
+Alebo zbierajte ľudí na discord.
+
+Pri indie, neviete spustiť masívnu marketingovú kampaň. Ľudí musíte zbierať doslova
+po jednom.
+
+Každý jeden človek, čo sa pridá na váš discord alebo mailling list - vážte si ho.
+Komunikujte s ním a ukazujte mu veci. Ako svojim kamošom. Bars čo. 
+
+Nechajte ich vyjadriť svoj názor. 
+
+Oslovujte ľudí na sociálnych sieťach. Napríklad ja som robil to, že na tiktoku
+som vypisoval deťom. Hej vidím, že ťa baví gorila tag. Spravil som takúto a takúto
+hru. Myslím, že by ťa to mohlo zaujímať. Vyskúšaj ak chceš a daj mi vedieť čo
+si myslíš.
+
+Takto som získal pár hráčov.
+
+Prípadne môžete skúsiť investovať nejaké peniaze a merať ako to bolo úspešné.
+zoberte napríklad nejakých 1000 eur a oslovne nejakých streamerov nech spravia
+nejaké video o vašej hre, alebo shout out alebo niečo. Dohodnite si jasné podmienky
+platby a čo musia spraviť. napríklad vo videu includnuť qr kód, v popise musí byť
+linka na store alebo CTA. Koľko sekúd sa musia venovať vašej hre.
+
+Investujte takto nejaký menší budget a hlavne si odmerajte ako bolo toto úspešné.
+používajte short linky cez ktoré si viete merať koľko ľudí to kliklo.
+
+Aj na marketing sa dá pozerať ako na experiment a technickú výzvu ako to všetko
+nastaviť a hlavne ODMERAT. A na základe zistení môžete spraviť ďalšie rozhodnutia.
+
+Pre každú sociálnu sieť potrebujete nájsť aj správny prístup. Napríklad na reddite
+ak budete len tak propagovať vašu hru, tak vás zrušia. Ale môžete ísť na to aj 
+šikovne. "Robím takúto hru a mal som takýto technický problém a takto som ti vyriešil"
+A potom keď sa vás budú ľudia pýtať čo je to za hru, posielajte im linku. Zbierajte
+ľudí po jednom.
+
+Lepšie je vybudovať menšiu a vernejšiu komunitu ako skúšať nejakú masívnu kampaň.
+Masívne kampane niesu také autentické ako viete byť vy.
 
 ---
 
-## 10. Launch stratégia
-
-### (Táto sekcia bude doplnená)
-
----
-
-## 11. Mentálne zdravie a tímová kultúra
+## 10. Mentálne zdravie a tímová kultúra
 
 ### Work-life balance
 - Nechajte si čas aj na zábavu a experimenty
