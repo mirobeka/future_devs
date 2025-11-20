@@ -10,9 +10,10 @@
 - Potrebujete túto schopnosť pre: networking, technické veci, byrokraciu, vedenie tímu
 - **Často potrebujete spraviť niečo, čo nikto v tíme nevie**
 
-### Odporúčanie: "The First 20 Hours" od Josha Kaufmana
+### Odporúčanie: ["The First 20 Hours" od Josha Kaufmana](https://www.martinus.sk/620829-prvnich-20-hodin/kniha)
 - Z tejto knihy som sa naučil, ako efektívne a rýchlo nadobúdať nové schopnosti
 - Princíp: Nemusíte byť expertom, stačí sa naučiť to podstatné pre váš konkrétny cieľ
+![first 20 hours](qr_first_20_hours.png)
 
 ### Môj prístup
 1. **Nastavte si presný cieľ** – čo konkrétne potrebujete dosiahnuť
@@ -272,6 +273,7 @@ Tak teraz viem, že investovať do toho má asi zmysel a môžem z toho jadra sp
 **Do tejto fázy treba investovať maximálne 1-2 mesiace** – v závislosti od toho, či robíte nejaký build hry, alebo iba fejkový Steam page a fejkové video.
 
 **Pozrite sa na toto video:** https://www.youtube.com/watch?v=GhmJnKhvD_0  
+![anrachitects video](qr_anarchitects.png)
 Je to VR hra, ale nie je tam ani štipka gameplayu. Vo videu je vyobrazený zážitok, ktorý hra bude ponúkať.
 
 
@@ -408,3 +410,5 @@ dookola.
 - Niektorí ľudia potrebujú striktnejší režim
 - Nie každý vie pracovať samostatne
 - Tieto vlastnosti zhodnoťte už pri nábore
+
+![link to this file](qr_presentation.png)
